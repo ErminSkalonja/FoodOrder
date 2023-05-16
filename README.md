@@ -1,5 +1,7 @@
 # Food Order App
 
+User is able to create food orders using this application. Data is hardcoded on the Frontend.
+
 This project was bootstrapped with Create React App.
 
 npm install
